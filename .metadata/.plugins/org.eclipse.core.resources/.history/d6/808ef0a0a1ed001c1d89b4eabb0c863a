@@ -27,8 +27,4 @@ public class Categoria {
 		produtos.add(produto);
 		
 	}
-	
-	public List<Produto> getProdutos() {
-		return produtos;
-	}
 }

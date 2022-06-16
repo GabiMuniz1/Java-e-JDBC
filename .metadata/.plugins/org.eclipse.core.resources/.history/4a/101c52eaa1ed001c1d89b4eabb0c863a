@@ -5,6 +5,7 @@ import java.util.List;
 import br.com.alura.jdbc.modelo.Categoria;
 import br.com.alura.jdbc.modelo.Produto;
 import dao.CategoriaDAO;
+import dao.ProdutoDAO;
 
 public class TestaListagemDeCategorias {
 

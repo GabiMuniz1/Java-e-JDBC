@@ -1,0 +1,8 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="ConnectionFactury"><rhs name\="ConnectionFactury"/></lhs><lhs name\="javax.naming.Referenceable"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.AbstractComboPooledDataSource"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.PooledDataSource"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="javax.sql.DataSource"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="javax.sql.CommonDataSource"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="java.sql.Wrapper"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.impl.PoolBackedDataSourceBase"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.impl.IdentityTokenResolvable"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.impl.AbstractIdentityTokenized"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs><lhs name\="com.mchange.v2.c3p0.impl.IdentityTokenized"><rhs name\="com.mchange.v2.c3p0.ComboPooledDataSource"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

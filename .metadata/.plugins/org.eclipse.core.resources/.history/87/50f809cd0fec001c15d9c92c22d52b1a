@@ -1,0 +1,20 @@
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+public class TestaRemocao {
+
+	public static void main(String[] args) throws SQLException{
+		
+		ConnectionFactory factory = new ConnectionFactory();
+		Connection connection = factory.recuperarConexao();
+		
+		PreparedStatement stm = connection.prepareStatement("SELECT ID, NOME, DESCRICAO FROM PRODUTO ID > ?" );
+		stm.setInt(1, 2);
+		stm.execute();
+		
+		Integer linhyasModificadas = stm.getUpdateCount();
+		System.out.println("Quantidade de linhas modificadas: " + linhyasModificadas);
+	}
+}

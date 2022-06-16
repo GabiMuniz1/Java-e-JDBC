@@ -1,0 +1,7 @@
+1655158153407	Rename type 'CriaConexao'
+1655161143062	Delete element
+1655161167406	Rename type 'ConnectionFactury'
+1655231817834	Extract method 'adicionarVariavel'
+1655343273702	Rename type 'PersistenciaProduto'
+1655343311990	Move compilation unit
+1655344287281	Rename type 'TestaInsercaoComProduto'

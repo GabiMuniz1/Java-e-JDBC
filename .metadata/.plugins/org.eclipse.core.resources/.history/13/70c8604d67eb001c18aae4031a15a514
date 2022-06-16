@@ -1,0 +1,20 @@
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class TestaInsercao {
+
+	public static void main(String[] args) throws SQLException {
+		
+		ConnectionFactury factury = new ConnectionFactury();
+		Connection connection = factury.recuperarConexao();
+		
+		Statement stm = connection.createStatement();
+		boolean resultado = 
+	
+		stm.execute("INSERT INTO PRODUTO (nome, descricao) VALUES ('Mouse','Mouse sem fio')");
+
+		System.out.println(resultado);
+	}
+
+}
